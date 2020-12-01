@@ -1,1 +1,3 @@
-# PAP-COVID-app
+# PAP COVID app
+
+Plataforma Automática de Processos COVID
